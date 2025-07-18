@@ -8,6 +8,8 @@ HEX-GRID CODEX (abbreviated as HGC) is a custom 6-bit structured encoding system
 
 ---
 
+https://youtu.be/Uzc14fmhI5I
+
 ### **V1.2 Update**
 
 * \[+] Added AES-CTR encrypted transmission to significantly increase anti-traceability difficulty
